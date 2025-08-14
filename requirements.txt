@@ -1,4 +1,4 @@
 Streamlit
 Pandas
-Plotly Express
+Plotly
 io.StringIO
