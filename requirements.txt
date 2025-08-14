@@ -1,1 +1,5 @@
-requirements.txt
+
+Streamlit
+Pandas
+Plotly Express
+io.StringIO
